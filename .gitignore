@@ -5,5 +5,5 @@
 /.vs
 /EnglishNow.Web/.vs/EnglishNow.Web
 /EnglishNow.Web/EnglishNow.Web/obj
-/EnglishNow.Web/EnglishNow.Web/bin/Debug/net8.0
+/EnglishNow.Web/EnglishNow.Web/bin
 /EnglishNow.Web/EnglishNow.Web/EnglishNow.Web.csproj.user
