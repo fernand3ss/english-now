@@ -1,0 +1,28 @@
+Chatbot Python com TinyLlama
+
+Sobre o projeto
+
+Desenvolvimento de um chatbot utilizando Python e o modelo de linguagem TinyLlama, explorando conceitos de Inteligência Artificial e Processamento de Linguagem Natural (NLP).
+
+Tecnologias utilizadas
+
+* Python
+* TinyLlama
+* Inteligência Artificial
+* Large Language Models (LLM)
+* Google Colab
+
+Objetivo
+
+Desenvolver um chatbot capaz de receber mensagens e gerar respostas utilizando um modelo de linguagem.
+
+Conceitos estudados
+
+* Inteligência Artificial
+* Processamento de Linguagem Natural
+* Modelos de linguagem
+* Interação entre usuário e máquina
+
+Autor
+
+Gabriel Fernandes
