@@ -1,0 +1,17 @@
+# Perfceptron Logical Gates
+
+## Sobre o projeto
+Projeto desenvolvido em Python ultilizandoo Google Colab para implementar uma rede neural artificail do tipo Perceprton.
+
+## Tecologias ultilizadas 
+- Python 
+- Numpy
+- Google Colab 
+- Inteligência Artificial 
+- Machine Learning 
+
+## Objetivo 
+Implementar e treinar um Perceprton para aprender a operação lógica AND (E).
+
+## Autor 
+Gabriel Fernandes do Carmo 
